@@ -1,0 +1,26 @@
+
+.navbar{
+    background-color: gray;
+    position: fixed;
+    width: 100vw;
+    z-index: 1;
+}
+
+.navbar-brand{
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-weight: 400;
+}
+
+#imagen{
+    width: 400px;
+}
+
+span{
+    font-weight: bold;
+    font-style: italic;
+}
+
+.tarjeta{
+    font-size: small;
+}
