@@ -6,7 +6,7 @@ $(document).ready(function () {
 
 
         if (valueInput<=0 || valueInput>732){
-            Command: toastr["info"]("Debe ingresar un numero entre 1 y 732", "Valor no vlido")
+            Command: toastr["info"]("Debe ingresar un numero entre 1 y 732", "Valor no válido")
 
             toastr.options = {
             "closeButton": true,
